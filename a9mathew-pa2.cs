@@ -1,19 +1,4 @@
-// -------------------------------------------------------------------
-// Department of Electrical and Computer Engineering
-// University of Waterloo
-//
-// Student Name:     Anand Mathew
-// Userid:           a9mathew
-//
-// Assignment:       PA2
-// Submission Date:  2014-10-10
-// 
-// I declare that, other than the acknowledgements listed below, 
-// this program is my original work.
-//
-// Acknowledgements:
-// Leonardo Passos' help tips.
-// -------------------------------------------------------------------
+
 
 using System;
 class BitSequences
